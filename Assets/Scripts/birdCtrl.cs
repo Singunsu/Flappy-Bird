@@ -5,6 +5,8 @@ using UnityEngine.UI;
 
 public class birdCtrl : MonoBehaviour
 {
+
+    // 테스트용 코드입니다.
     // Start is called before the first frame update
     Rigidbody2D rg;
     public int score;
